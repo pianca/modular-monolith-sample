@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssWeb", "AssWeb\AssWeb.csproj", "{9DBE73BA-EF03-4AD3-BEC4-7DE0BF51F6AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssCommon", "AssCommon\AssCommon.csproj", "{0B48E131-6D16-412D-BDD7-5C0C6099A894}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssLibrary", "AssLibrary\AssLibrary.csproj", "{BFD2B4DE-9AF0-491E-9636-3C078F70B7BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DBE73BA-EF03-4AD3-BEC4-7DE0BF51F6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBE73BA-EF03-4AD3-BEC4-7DE0BF51F6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBE73BA-EF03-4AD3-BEC4-7DE0BF51F6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBE73BA-EF03-4AD3-BEC4-7DE0BF51F6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B48E131-6D16-412D-BDD7-5C0C6099A894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B48E131-6D16-412D-BDD7-5C0C6099A894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B48E131-6D16-412D-BDD7-5C0C6099A894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B48E131-6D16-412D-BDD7-5C0C6099A894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD2B4DE-9AF0-491E-9636-3C078F70B7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD2B4DE-9AF0-491E-9636-3C078F70B7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD2B4DE-9AF0-491E-9636-3C078F70B7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD2B4DE-9AF0-491E-9636-3C078F70B7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70804F24-1E90-4124-B05F-EEE331A477D3}
+	EndGlobalSection
+EndGlobal
